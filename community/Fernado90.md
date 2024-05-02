@@ -1,7 +1,6 @@
 
 # Fernando Noleto Primo
-
-![Capa de perfil](https://www.canva.com/design/DAGEBY81_XU/MX_f6DEn3HQ5dMFKeWpm4g/edit?utm_content=DAGEBY81_XU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+_______________________
 
 ## Conecte-se comigo
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fernando-noleto-primo-10bb1b27b/) [![Digital Innovation One](https://img.shields.io/badge/Digital_Innovation_One-Junte_se_%C3%A0_comunidade-9cf?style=flat&logo=digitalocean)](https://web.dio.me/users/fernando_i9seguro?tab=achievements)
