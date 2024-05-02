@@ -1,12 +1,10 @@
 
 # Fernando Noleto Primo
 
-![Capa de perfil](https://www.canva.com/design/DAGEBY81_XU/MX_f6DEn3HQ5dMFKeWpm4g/edit?utm_content=DAGEBY81_XU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 ## Conecte-se comigo
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fernando-noleto-primo-10bb1b27b/) [![Digital Innovation One](https://img.shields.io/badge/Digital_Innovation_One-Junte_se_%C3%A0_comunidade-9cf?style=flat&logo=digitalocean)](https://web.dio.me/users/fernando_i9seguro?tab=achievements)
 
-## Sobre
+## Sobre:
 
 Olá! Sou Fernando Noleto Primo, tenho 34 anos e sou um entusiasta  de tecnologia, jogos eletronicos, esportes e muito Heavy Metal. Além disso, sou extremamente orgulhoso de ser pai do Lucca, um garotinho incrível que me ensina mais do que imagino a cada dia. Completando minha felicidade, tenho ao meu lado minha esposa linda, Aline Pimentel.
 
@@ -16,7 +14,7 @@ Minha jornada na análise de dados não se limita apenas à técnica, mas també
 
 Estou animado com as possibilidades que o futuro reserva nessa jornada de aprendizado e crescimento profissional. Seja bem-vindo a acompanhar essa trajetória repleta de descobertas e realizações!
 
-## About
+## About:
 
 Hello! I'm Fernando Noleto Primo, 34 years old, and I'm passionate about both technology and Heavy Metal. Moreover, I'm extremely proud to be the father of Lucca, an incredible little boy who teaches me more than I could ever imagine every single day. Completing my happiness, I have by my side my beautiful wife, Aline Gomes.
 
